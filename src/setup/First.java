@@ -9,5 +9,9 @@ public class First {
         // i want create history
 
         // the text doesnt matter
+
+        // third commit
+
+        // more lines
     }
 }
