@@ -7,4 +7,6 @@ public class Car {
     // we have conflict
 
     // because there are different texts in diff branches
+
+    //hdhdkjadgkjdhf
 }
