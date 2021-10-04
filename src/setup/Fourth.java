@@ -2,7 +2,6 @@ package setup;
 
 public class Fourth {
 
-    // this is TC002 branch
-
-    // random text ...
+    // this is master branch
+    // new lines, maybe conflict
 }
